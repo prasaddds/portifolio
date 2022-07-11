@@ -7,6 +7,7 @@ function DuplicateApp() {
         <Routes>
             <Route path='/' element={<Home />} />
             <Route path='Project' element={<Project/>} />
+            <Route path='portifolio' element={<Home/>} />
             </Routes> 
         </>
     )
